@@ -3,7 +3,7 @@ layout: default
 title: Example
 ---
 
-# Example project
+# Pascal Example Page
 
 - [About the project](about)
 - [Publications](publications)
@@ -11,6 +11,7 @@ title: Example
 
 # News
 
+- Ich schreib mal was
 - Some event
 - Another exciting event
 - More news
